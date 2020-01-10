@@ -1,2 +1,11 @@
-body,h3{font-family: georgia, serif;}
-h1,h2{font-family: 'Trebuchet MS', sans-serif;}
+body,h3 { 
+    font-family: georgia, serif;
+}
+h1,h2 {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
