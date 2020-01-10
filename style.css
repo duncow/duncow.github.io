@@ -1,8 +1,15 @@
-body,h3 { 
-    font-family: georgia, serif;
-}
 h1,h2 {
     font-family: 'Trebuchet MS', sans-serif;
+}
+h1 {
+     font-size: 4vw;
+}
+h2 {
+   font-size: 3vw;
+}
+body { 
+    font-family: georgia, serif;
+    font-size: 1vw;
 }
 img {
     max-width: 100%;
