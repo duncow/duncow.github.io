@@ -6,7 +6,7 @@ h1,h2 {
     h1{font-size: 8vw;}
 }
 @media (min-width: 481px) {
-    h1{font-size: 4vw;}
+    h1{font-size: 8vw;}
 }
 h2 {
    font-size: 2vw;
