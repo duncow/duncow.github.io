@@ -2,10 +2,10 @@ h1,h2 {
     font-family: 'Trebuchet MS', sans-serif;
     text-align: center;
 }
-@media (max-width: 480px) {
+@media (max-width: 980px) {
     h1{font-size: 8vw;}
 }
-@media (min-width: 481px) {
+@media (min-width: 981px) {
     h1{font-size: 4vw;}
 } 
 /*h1 {
