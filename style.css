@@ -16,6 +16,7 @@ h1,h2 {
     h1{font-size: 8vw;}
     h2{font-size: 6vw;}
     body{font-size: 4vw;}
+    img{max-width: 480px;}
 } 
 body { 
     font-family: georgia, serif;
