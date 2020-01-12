@@ -5,12 +5,12 @@ h1,h2 {
 @media screen and (min-width: 980px) /* Desktop */ {
     h1{font-size: 4vw;}
     h2{font-size: 2vw;}
-    body{font-size: 2vw;}
+    body{font-size: 1vw;}
 }
 @media screen  and (max-width: 979px) /* Tablet */ {
     h1{font-size: 6vw;}
     h2{font-size: 4vw;}
-    body{font-size: 2vw;}
+    body{font-size: 3vw;}
 } 
 @media screen and (max-width: 500px) /* Mobile */ {
     h1{font-size: 8vw;}
